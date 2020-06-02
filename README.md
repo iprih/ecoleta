@@ -1,5 +1,4 @@
-# Next Level Week :rocket:
-## Ecoleta :recycle:
+# :rocket: Next Level Week  - Ecoleta :recycle:
 
 ### Projeto
 
